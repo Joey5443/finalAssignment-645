@@ -1,0 +1,27 @@
+//Fonts
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,400,900&display=swap");
+$font-body: Roboto, sans-serif;
+
+//Colors
+$white: #fff;
+$red: #e65c43;
+$darkgrey: #666;
+$color-body: $white;
+$color-greybar: #f5f6f6;
+$color-bg-footer: #30353d;
+
+//Images
+$image-background: url("../images/bg.gif");
+$image-logo: url("../images/logo.png");
+$image-social-media: url("../images/social-media.png");
+
+//Media Queries Breaks
+$media-large: 959px;
+$media-medium: 767px;
+$media-small: 459px;
+
+//Grid
+$full_size: 100%;
+$gutter: 2%;
+$columns-media-large: 2;
+$columns-media-medium: 1;
